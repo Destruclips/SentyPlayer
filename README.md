@@ -1,6 +1,8 @@
 ﻿# SentyPlayer
 **Senty Player** is an innovative application that captures the user's mood in real-time using advanced computer vision and deep learning techniques to suggest personalized music recommendations. By utilizing a comprehensive tech stack, the project achieves a seamless and interactive user experience.
 
+Working of the website: https://youtu.be/GpzyzxWPe-M
+
 **Key Technologies:**
 
 **MediaPipe:** Employed for real-time face and hand landmark detection to analyze user expressions and gestures.
