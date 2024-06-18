@@ -29,5 +29,5 @@ venv\Scripts\activate
 
 pip install -r requirements.txt
 
-4. To run the project: cd Test --> streamlit run player.py
+3. To run the project: cd Test --> streamlit run player.py
 
