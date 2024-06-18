@@ -21,14 +21,13 @@ Working of the website: https://youtu.be/GpzyzxWPe-M
 
 **Steps**:
 1. Train the models
+2. **Create a virtual environment**
+   python -m venv venv
 
-2.# Create a virtual environment
-python -m venv venv
-
-# Activate the virtual environment (Windows)
+**Activate the virtual environment (Windows)**
 venv\Scripts\activate
 
 pip install -r requirements.txt
 
-3. To run the project: cd Test --> streamlit run player.py
+4. To run the project: cd Test --> streamlit run player.py
 
